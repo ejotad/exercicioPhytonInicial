@@ -1,0 +1,2 @@
+# exercicioPhytonInicial
+Exercícios Python Inicial
